@@ -2,6 +2,8 @@
 
 這是一個展示我在「AI 人工智慧與數據分析應用班」實作專案的作品集網站。
 
+**🌐 線上預覽 (Live Demo)**: [https://citriclin0422.github.io/AI_portfolio/](https://citriclin0422.github.io/AI_portfolio/)
+
 ## 專案介紹
 
 本作品集包含多個實作專案，涵蓋機器學習、資料分析與網頁前端等不同領域：
